@@ -9,7 +9,7 @@ Please find installation instructions for PyTorch and Detertorn2 in [here](https
 
 
 ## Inference
-Download the training data (aicity2023_track5_test) into ./data/
+Download the testing data (aicity2023_track5_test) into ./data/
 
 The format of dataset as follows:
 >   - data
