@@ -1,0 +1,8 @@
+_BASE_: Base-attribute.yml
+_BASE_: Base-attribute.yml
+
+DATASETS:
+  NAMES: ("COCOBAIDU",)
+  TESTS: ("COCOBAIDU",)
+
+OUTPUT_DIR: projects/DrvPassger/logs/data_0307/strong_baseline
