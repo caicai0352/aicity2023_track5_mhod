@@ -1,14 +1,12 @@
 # AICITY2023_Track5
 
-![framework](figure/rank.jpg)
 This repo includes solution for AICity2023 Challenge Track 5 - Detecting Violation of Helmet Rule for Motorcyclists
 
 ![framework](figure/1681263217649.jpg)
 # Installation
-Please find installation instructions for PyTorch and DETA follow instructions from Deformable-DETR. Tested on torch1.8.1+cuda10.2+Pillow8.2.0 [here](https://github.com/fundamentalvision/Deformable-DETR/README.md)
+Please find installation instructions for PyTorch and DETA follow instructions from Deformable-DETR. Tested on torch1.8.1+cuda10.2+Pillow8.2.0 [here](https://github.com/jozhang97/DETA)
 
 Please find installation instructions for PyTorch and Detertorn2 in [here](https://detectron2.readthedocs.io/en/latest/tutorials/install.html)
-
 
 ## Inference
 Download the testing data (aicity2023_track5_test) into ./data/
