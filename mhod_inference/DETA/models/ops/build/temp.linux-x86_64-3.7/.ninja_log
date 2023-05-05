@@ -1,0 +1,4 @@
+# ninja log v5
+33	8921	1673858950000000000	/mnt/home/cnn/DETA/models/ops/build/temp.linux-x86_64-3.7/mnt/home/cnn/DETA/models/ops/src/cpu/ms_deform_attn_cpu.o	655f19156c081d58
+41	28911	1673858970000000000	/mnt/home/cnn/DETA/models/ops/build/temp.linux-x86_64-3.7/mnt/home/cnn/DETA/models/ops/src/cuda/ms_deform_attn_cuda.o	6b5dc09ade58a1f1
+31	38985	1673858979000000000	/mnt/home/cnn/DETA/models/ops/build/temp.linux-x86_64-3.7/mnt/home/cnn/DETA/models/ops/src/vision.o	3592b004c42f1579
