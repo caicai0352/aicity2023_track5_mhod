@@ -1,0 +1,12 @@
+# ninja log v5
+321	81317	1679392551000000000	/mnt/home/aicity5/detectron2/build/temp.linux-x86_64-3.7/mnt/home/aicity5/detectron2/detectron2/layers/csrc/cocoeval/cocoeval.o	4b3cc54e8982441e
+199	89062	1679392560000000000	/mnt/home/aicity5/detectron2/build/temp.linux-x86_64-3.7/mnt/home/aicity5/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	49393be3b85a90c7
+390	111943	1679392583000000000	/mnt/home/aicity5/detectron2/build/temp.linux-x86_64-3.7/mnt/home/aicity5/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	88ef2e3d0eaf393b
+148	139465	1679392609000000000	/mnt/home/aicity5/detectron2/build/temp.linux-x86_64-3.7/mnt/home/aicity5/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	26ef7a72def92758
+446	180934	1679392654000000000	/mnt/home/aicity5/detectron2/build/temp.linux-x86_64-3.7/mnt/home/aicity5/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	fbd7c0151e9d9d35
+180949	191324	1679392665000000000	/mnt/home/aicity5/detectron2/build/temp.linux-x86_64-3.7/mnt/home/aicity5/detectron2/detectron2/layers/csrc/cuda_version.o	241a76e25e9c0764
+81343	250132	1679392723000000000	/mnt/home/aicity5/detectron2/build/temp.linux-x86_64-3.7/mnt/home/aicity5/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	5672fcbf4a70ffc4
+111944	289779	1679392763000000000	/mnt/home/aicity5/detectron2/build/temp.linux-x86_64-3.7/mnt/home/aicity5/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	2ab65a60579984ec
+89069	310336	1679392784000000000	/mnt/home/aicity5/detectron2/build/temp.linux-x86_64-3.7/mnt/home/aicity5/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda.o	10a9a032d51ee6b1
+139466	316324	1679392790000000000	/mnt/home/aicity5/detectron2/build/temp.linux-x86_64-3.7/mnt/home/aicity5/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	def439d96bce62da
+74	349626	1679392811000000000	/mnt/home/aicity5/detectron2/build/temp.linux-x86_64-3.7/mnt/home/aicity5/detectron2/detectron2/layers/csrc/vision.o	c076a9e6e1964537
